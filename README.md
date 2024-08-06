@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stephenquadross
-- 👀 I’m interested in software development, cloud & network engineering & their integration with AI systems. 
-- 🌱 I’m currently learning </html>,{css} & .js;
-- 💞️ I’m looking to collaborate on with fellows who are working on & are interested in development of softwares, cloud & network engineering. 
+- 👀 I’m interested in Data Engineering, cloud & network engineering & their integration with AI systems. 
+- 🌱 I’m currently learning Python, SQL, Scala, R;
+- 💞️ I’m looking to collaborate on with fellows who are working on & are interested in data engineering, cloud & network engineering. 
 - 📫 How to reach me through my LinkedIn @Stephen Quadross, Email: stephenquadross@gmail.com, Instagram: stephen_quadross, WhatsApp: +254791065038.
 
 
